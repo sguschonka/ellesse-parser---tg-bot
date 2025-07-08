@@ -35,7 +35,7 @@ python ellesse_bot.py
 |-------------|--------------|------------------|
 | ![Главное меню](https://github.com/user-attachments/assets/d81e5b71-d425-4a16-9c71-decb686c2837) | ![Выбор размера](https://github.com/user-attachments/assets/ba9852cf-a842-4cee-bcce-11727c13782c) | ![Результаты](https://github.com/user-attachments/assets/35fdf2fd-39fe-4947-8f3e-118988558ef3) |
 
-| Пример карточки товара |
+| ABOUT |
 |-----------------------|
 | ![Карточка](https://github.com/user-attachments/assets/3212d3f7-59e5-4bda-be89-1bfb02d3c834) |
 
