@@ -1,7 +1,8 @@
 __pycache__/
-*.py[codz]
+*.py[cod]
 *$py.class
 
 .env
-.venv
+.venv/
+venv/
 .toml
