@@ -21,7 +21,14 @@ Telegram-бот для поиска одежды на сайте [Ellesse](https
 pip install -r requirements.txt
 Создайте файл .env и добавьте токен бота:
 
-Добавьте .env с вашим токеном
-
-```ini
+Добавьте .env с вашим токеном:
 BOT_TOKEN=ваш_токен_бота
+
+#Скриншоты
+![image](https://github.com/user-attachments/assets/d81e5b71-d425-4a16-9c71-decb686c2837)
+![image](https://github.com/user-attachments/assets/ba9852cf-a842-4cee-bcce-11727c13782c)
+![image](https://github.com/user-attachments/assets/35fdf2fd-39fe-4947-8f3e-118988558ef3)
+![image](https://github.com/user-attachments/assets/3212d3f7-59e5-4bda-be89-1bfb02d3c834)
+
+
+##Ссылка: [EllesseBot](@ellesse_sguschonka_bot)
