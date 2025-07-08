@@ -14,3 +14,14 @@ Telegram-бот для поиска одежды на сайте [Ellesse](https
    ```bash
    git clone https://github.com/yourusername/ellesse-bot.git
    cd ellesse-bot
+
+Установите зависимости:
+
+```bash
+pip install -r requirements.txt
+Создайте файл .env и добавьте токен бота:
+
+Добавьте .env с вашим токеном
+
+```ini
+BOT_TOKEN=ваш_токен_бота
