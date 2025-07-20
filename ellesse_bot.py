@@ -129,11 +129,11 @@ async def process_size_mens(callback: CallbackQuery):
             cards_text += card
 
             if len(cards_text) >= 3000:
-                await callback.message.answer(cards_text, parse_mode="HTML")
+                await callback.message.answer(cards_text, parse_mode="HTML", disable_web_page_preview=True)
                 cards_text = ""
                 await asyncio.sleep(1)
         if cards_text:
-            await callback.message.answer(cards_text, parse_mode="HTML")
+            await callback.message.answer(cards_text, parse_mode="HTML", disable_web_page_preview=True)
 
         await callback.message.answer(
             "Одежда успешно загружена, капитан! Хотите дать мне еще одну команду?"
@@ -166,11 +166,11 @@ async def process_size_womens(callback: CallbackQuery):
             cards_text += card
 
             if len(cards_text) >= 3000:
-                await callback.message.answer(cards_text, parse_mode="HTML")
+                await callback.message.answer(cards_text, parse_mode="HTML", disable_web_page_preview=True)
                 cards_text = ""
                 await asyncio.sleep(1)
         if cards_text:
-            await callback.message.answer(cards_text, parse_mode="HTML")
+            await callback.message.answer(cards_text, parse_mode="HTML", disable_web_page_preview=True)
 
         await callback.message.answer(
             "Одежда успешно загружена, капитан! Хотите дать мне еще одну команду?"
